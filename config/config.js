@@ -27,7 +27,7 @@ var config = {
 				calendars: [
 					{
 						symbol: 'calendar-check-o ',
-						url: 'webcal://www.calendarlabs.com/templates/ical/US-Holidays.ics'
+						url: 'webcal://www.calendarlabs.com/templates/ical/UK-Holidays.ics'
 					}
 				]
 			}
@@ -61,8 +61,8 @@ var config = {
 			config: {
 				feeds: [
 					{
-						title: "New York Times",
-						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+						title: "Sky News",
+						url: "http://feeds.skynews.com/feeds/rss/home.xml"
 					}
 				],
 				showSourceTitle: true,
